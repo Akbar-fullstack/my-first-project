@@ -1,0 +1,56 @@
+/* form{
+    text-align: center;
+}
+
+button{
+    background-color: red;
+    border-radius: 10px;
+    border: none;
+} */
+
+h1{
+    color: yellow;
+    background-color: black;
+    width: 800px;
+    text-align: center;
+    margin: auto;
+    border-radius: 10px;
+}
+
+
+form{
+    background-color: black;
+    width: 800px;
+    margin: auto;
+    border-radius: 10px;
+    text-align: center;
+}
+
+form:hover{
+    box-shadow: 5px 5px 5px grey;
+}   
+
+.q{
+    border-radius: 10px;
+    width: 50%;
+    height: 30px;
+    margin: 5px auto;
+    align-items: center;
+}
+label{
+    color: yellow;
+}
+
+button{
+    color: white;
+    background-color: green;
+    border-radius: 10px;
+    width: 15%;
+    padding: 10px;
+}
+
+button:hover{
+    background-color: darkgreen;
+    cursor: pointer;
+    box-shadow: 2px 5px 5px grey;
+}
